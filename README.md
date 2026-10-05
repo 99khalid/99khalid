@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khalid Hassan 👋</h1>
-<h3 align="center">Senior .NET Engineer · Distributed Systems · Industrial IoT</h3>
+<h3 align="center">Senior .NET Engineer | Microservices</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khalid-99-hassan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
