@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Cairo,_Egypt-555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Cairo, Egypt"/>
 </p>
 
-I build backend systems that have to be **fast, reliable, and talk to real hardware**. For 5+ years I've been designing and scaling high-throughput microservices with .NET, and wiring them to PLCs over Modbus TCP for industrial and logistics operations.
+I build backend systems that have to be **fast, reliable, and talk to real hardware**. For 4+ years I've been designing and scaling high-throughput microservices with .NET, and wiring them to PLCs over Modbus TCP for industrial and logistics operations.
 
 - 💬 Ask me about **Kafka, gRPC, CQRS / DDD, and integrating .NET with industrial hardware**
 
@@ -50,9 +50,9 @@ I build backend systems that have to be **fast, reliable, and talk to real hardw
 
 | Project | What I built | Stack |
 |---|---|---|
-| **NFlow Egypt** (Ain Sokhna Port) | Digitized end-to-end terminal logistics: customs manifests, gate permits, operations workflows | .NET, Microservices, Kafka |
-| **IGate System** | Sub-second gate access control talking directly to PLCs over Modbus TCP | .NET, Modbus TCP, SignalR |
-| **GradeX Backend** | Multi-tenant academic platform with AI-assisted grading via Google Gemini | .NET 9, Clean Architecture, CQRS |
+| **NFlow Egypt** (Ain Sokhna Port) | Digitized end-to-end terminal logistics (customs manifests, gate permits, operations workflows) for **4,500+ users** | .NET, Microservices, Kafka |
+| **IGate System** | Gate access control talking directly to PLCs over Modbus TCP: **~800 trucks/day**, sub-second response | .NET, Modbus TCP, SignalR |
+| **GradeX Backend** | Multi-tenant academic platform serving **5,000+ schools**, with AI-assisted grading via Google Gemini | .NET 9, Clean Architecture, CQRS |
 
 
 ---
